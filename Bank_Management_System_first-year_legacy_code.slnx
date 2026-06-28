@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Bank_Management_System_first-year_legacy_code/Bank_Management_System_first-year_legacy_code.vcxproj" />
+</Solution>

@@ -1,0 +1,15 @@
+# Visual Studio Build Outputs
+- Debug/
+- Release/
+x64/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio Hidden Cache
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
